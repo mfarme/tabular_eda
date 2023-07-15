@@ -3,13 +3,15 @@ Tabular EDA is a Python package for quick Exploratory Data Analysis on tabular d
 
 It provides easy to use functions for:
 
--Generating descriptive statistics
+-Generating descriptive statistics 
+
 -Plotting histograms
+
 -Visualizing correlations
 
 The analysis is output in a clean HTML report showcasing the key aspects of your dataset.
+
 Installation
-Copy code
 
     pip install git+https://github.com/user/eda.git
 
